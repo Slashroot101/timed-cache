@@ -1,0 +1,31 @@
+{
+  "name": "timed-cache",
+  "version": "1.0.0",
+  "description": "a timed memory cache with callback functionality",
+  "main": "./src/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
+    "@babel/preset-env": "^7.18.9",
+    "babel-core": "^7.0.0-bridge.0",
+    "jest": "^28.1.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slashroot101/timed-cache.git"
+  },
+  "keywords": [
+    "cache",
+    "timed-cache",
+    "node-cache"
+  ],
+  "author": "slashroot101",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Slashroot101/timed-cache/issues"
+  },
+  "homepage": "https://github.com/Slashroot101/timed-cache#readme"
+}
